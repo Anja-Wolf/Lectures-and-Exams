@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RoomTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-06-30T17:08:28" hostname="Anjas-MacBook-Air-2.fritz.box" time="0.006">
+  <properties/>
+  <testcase name="equalsOtherName" classname="RoomTest" time="0.0"/>
+  <testcase name="equalsOtherClass" classname="RoomTest" time="0.001"/>
+  <testcase name="hashCodeDifferentName" classname="RoomTest" time="0.0"/>
+  <testcase name="room" classname="RoomTest" time="0.001"/>
+  <testcase name="hashCodeSameName" classname="RoomTest" time="0.0"/>
+  <testcase name="equalsNull" classname="RoomTest" time="0.0"/>
+  <testcase name="equalsSymmetry" classname="RoomTest" time="0.001"/>
+  <testcase name="equalsSameName" classname="RoomTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

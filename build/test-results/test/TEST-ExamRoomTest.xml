@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExamRoomTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-06-30T17:08:27" hostname="Anjas-MacBook-Air-2.fritz.box" time="0.006">
+  <properties/>
+  <testcase name="examRoomIsRoom" classname="ExamRoomTest" time="0.003"/>
+  <testcase name="examRoomFromRoom" classname="ExamRoomTest" time="0.001"/>
+  <testcase name="examRoom" classname="ExamRoomTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

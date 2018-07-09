@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WrittenExamTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-06-30T17:08:28" hostname="Anjas-MacBook-Air-2.fritz.box" time="0.007">
+  <properties/>
+  <testcase name="addAndRemoveExamRooms" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="writtenExam" classname="WrittenExamTest" time="0.002"/>
+  <testcase name="addTwoExamRooms" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="addNotExamRoom" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="addTwoStudents" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="writtenExamIsExam" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="addStudent" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="addTwoStudentsRoomsTooSmall" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="addStudentsRoomTooSmall" classname="WrittenExamTest" time="0.001"/>
+  <testcase name="addStudents" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="writtenExamWithStartDate" classname="WrittenExamTest" time="0.001"/>
+  <testcase name="addExamRoom" classname="WrittenExamTest" time="0.0"/>
+  <testcase name="addExamRoomAndNonExamRoom" classname="WrittenExamTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

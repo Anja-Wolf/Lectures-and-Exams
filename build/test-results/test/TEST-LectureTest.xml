@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LectureTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-06-30T17:08:27" hostname="Anjas-MacBook-Air-2.fritz.box" time="0.026">
+  <properties/>
+  <testcase name="lectureWithStudents" classname="LectureTest" time="0.003"/>
+  <testcase name="lectureWithOralExamWrong" classname="LectureTest" time="0.006"/>
+  <testcase name="lectureWithExamRoomTooSmall" classname="LectureTest" time="0.008"/>
+  <testcase name="lectureWithExam" classname="LectureTest" time="0.0"/>
+  <testcase name="lectureWithWrongExam" classname="LectureTest" time="0.0"/>
+  <testcase name="lecture" classname="LectureTest" time="0.001"/>
+  <testcase name="lectureWithStudentsRoomToSmall" classname="LectureTest" time="0.0"/>
+  <testcase name="lectureWithOralExam" classname="LectureTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
